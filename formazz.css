@@ -16,6 +16,7 @@ a{
 
 h1{
     color: #A04000;
+    text-transform: uppercase;
 }
 
 .szoveg1{
@@ -30,7 +31,7 @@ h1{
 }
 
 .szoveg2{
-    text-align: justify left;
+    text-align: justify;
     margin-bottom: 200px;
 }
 

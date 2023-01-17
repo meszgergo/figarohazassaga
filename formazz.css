@@ -1,0 +1,52 @@
+body{
+    background-color: #FFCCAA;
+    font-family: Tahoma;
+    font-size: 14px;
+}
+
+a{
+    color: #A04000;
+}
+
+.kep1{
+    width: 150px;
+    margin: 5px 20px 5px 20px;
+    float: left;
+}
+
+h1{
+    color: #A04000;
+}
+
+.szoveg1{
+    text-align: justify;
+
+}
+
+.kep2{
+    float: right;
+    width: 195px;
+    margin: 5px 20px 5px 20px;
+}
+
+.szoveg2{
+    text-align: justify left;
+    margin-bottom: 200px;
+}
+
+.elsosor{
+    text-align: left;
+}
+
+.masodiksor{
+    text-align: center;
+}
+
+.harmadiksor{
+    text-align: right;
+    vertical-align: bottom;
+}
+
+table{
+    width: 100%;
+}
